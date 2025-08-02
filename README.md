@@ -1,1 +1,6 @@
 Here is ahtml file which is the frontend file for our website "Startup Mirage" , which is a simulation-based web platform designed to gamify the entrepreneurial journey. It provides users a risk-free, interactive experience where they can simulate creating and managing startups in dynamic, AI-driven market environments. With machine learning and generative AI models, the platform fosters deep learning of business strategies by mimicking real-world economic behavior.
+
+
+   made by
+   -Biswayan Roy
+   -Adrija Mukherjee
